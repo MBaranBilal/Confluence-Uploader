@@ -1,3 +1,4 @@
+# Confluence-Uploader
 # config.json ve client.go Düzenlemesi
 
 "email": "CONFLUENCE_EMAIL" --> bu kısım, Confluence'un cloud mu yoksa server mı olduğuna göre değişebilir. 
