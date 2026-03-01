@@ -1,0 +1,7 @@
+{
+    "baseUrl": "CONFLUENCE_PAGE_BASE_URL",
+    "email": "CONFLUENCE_USER_EMAIL",
+    "token": "CONFLUENCE_API_TOKEN",
+    "page_id": "CONFLUENCE_PAGE_ID",
+    "reports_dir": "REPORTS_DIRECTORY_PATH"
+}
